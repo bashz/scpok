@@ -1,0 +1,14 @@
+{
+  "name": "scrapok",
+  "version": "0.0.1",
+  "description": "scrapping",
+  "keywords": ["data-vis", "scapping"],
+  "author": "Bechir Nemlaghi",
+  "contributors": [],
+  "dependencies": {
+    "request": "2.73.0",
+    "sync-request" : "3.0.1",
+    "cheerio": "0.2.0",
+    "mongoose": "4.5.3"
+  }
+}
